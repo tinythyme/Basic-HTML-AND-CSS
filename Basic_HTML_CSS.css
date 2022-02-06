@@ -1,0 +1,43 @@
+body{
+  background-color: rgb(90, 209, 203);
+}
+
+h1{
+  border-style: solid;
+  border-width: thin;
+}
+
+#p1{
+  background-color: white;
+}
+
+h2{
+  color: purple;
+}
+
+span{
+  color: purple;
+  text-decoration-line: overline;
+}
+a{
+  color: blue;
+}
+
+#textblock{
+  border: 5px solid grey;
+  width: 800px;
+  height: 400px;
+}
+
+input{
+  border: 2px solid;
+  border-color: maroon;
+}
+
+.thirdDIV{
+
+  background-color: blue;
+  border-style: dashed;
+  border-color: yellow;
+  border-width: 
+}
